@@ -2,5 +2,8 @@
   "name": "redux-scratch",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "redux": "^3.7.2"
+  }
 }
