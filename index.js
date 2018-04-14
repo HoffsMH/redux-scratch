@@ -1,5 +1,5 @@
-import redux from 'redux'
+import { createStore } from 'redux';
 
-console.log(redux)
+console.log(createStore);
 
-console.log('hiii')
+console.log('hiii');
